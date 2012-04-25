@@ -1,0 +1,22 @@
+IP 192.168.51.17 [Distro CENTOS, Version 5.6, Arch 64] will be built from BZR with Eucalyptus-CC00 CLC SC00 WS
+IP 192.168.51.18 [Distro CENTOS, Version 5.6, Arch 64] will be built from BZR with Eucalyptus-NC00
+192.168.51.17 : Running ./mod_euca_conf_beta.pl CENTOS 5.6 64 BZR CC CLC SC WS 
+[distro CENTOS, version 5.6, arch 64, source BZR, roll [CC CLC SC WS ]]
+
+Setting JAVA_HOME to /opt/eucalyptus/packages/java/jdk1.6.0_16
+FOUND in MEMO
+SAN_PROVIDER=NO-SAN
+FOUND in MEMO
+CLOUD_OPTS=--debug
+FOUND in MEMO
+SET_VNET_NETMASK=255.255.240.0
+192.168.51.18 : Running ./mod_euca_conf_beta.pl CENTOS 5.6 64 BZR NC 
+[distro CENTOS, version 5.6, arch 64, source BZR, roll [NC ]]
+
+Setting JAVA_HOME to /opt/eucalyptus/packages/java/jdk1.6.0_16
+FOUND in MEMO
+SAN_PROVIDER=NO-SAN
+FOUND in MEMO
+CLOUD_OPTS=--debug
+FOUND in MEMO
+SET_VNET_NETMASK=255.255.240.0
